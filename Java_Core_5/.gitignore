@@ -3,7 +3,7 @@
 *.settings
 *.classpath
 *.project
-
+package-info.java
 # Log file
 *.log
 
