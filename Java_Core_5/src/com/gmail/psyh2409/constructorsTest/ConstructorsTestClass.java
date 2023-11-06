@@ -1,4 +1,4 @@
-package com.gmail.psyh2409.thisConstructor;
+package com.gmail.psyh2409.constructorsTest;
 
 public class ConstructorsTestClass {
 	 public int i;
